@@ -23,7 +23,7 @@ I'm currently exploring the exciting fields of **AI** and **chatbot development*
 - **Creative Designing:** Exploring new visual design trends and techniques
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/mahtopankaj]
+- **LinkedIn:** [www.linkedin.com/in/mahtopankaj]
 - **Portfolio:** [https://pankajux.odoo.com/]
 - **Email:** [pankajp8271@gmail.com]
 
